@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CCID</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="comment1">To Cancel Alarm please put the phone close to the device, then wait for beep and screen confirmation</string>
+    <string name="alert1">Press for Alert Code</string>
+    <string name="tag_info">CCID Info</string>
+    <string name="settings">Settings</string>
+    <string name="tag_detail">CCID Info</string>
+    <string name="scan">SCAN</string>
+    <string name="scanning">SCANNING...</string>
+    <string name="read">READ</string>
+    <string name="tag_searching">Searching</string>
+    <string name="serial_number">Serial Number :</string>
+    <string name="ems_server">EMS Server</string>
+    <string name="method">Method</string>
+    <string name="json">JSON</string>
+    <string name="method_get">GET</string>
+    <string name="method_post">POST</string>
+    <string name="timeout">3000</string>
+    <string name="password">Password</string>
+
+    <string name="msgText">msgText</string>
+    <string name="msgText_val">MSG</string>
+    <string name="alarmText">alarmText</string>
+    <string name="alarmText_val">Alarm</string>
+    <string name="facilityText">facilityText</string>
+    <string name="facilityText_val">Facility</string>
+    <string name="floorText">floorText</string>
+    <string name="floorText_val">1</string>
+    <string name="departText">departText</string>
+    <string name="departText_val">Depart</string>
+    <string name="roomText">roomText</string>
+    <string name="roomText_val">105</string>
+    <string name="bedText">bedText</string>
+    <string name="bedText_val">Bed</string>
+    <string name="imageUrl">imageUrl</string>
+    <string name="imageUrl_val">image</string>
+    <string name="patientText">patientText</string>
+    <string name="patientText_val">patient</string>
+
+    <string name="alert_server">Alert Server</string>
+    <string name="staff_id">Staff ID</string>
+    <string name="server_alert_url">http://64.34.222.78/api/StaffCardDiscovery/</string>
+    <string name="server_nfc_url">http://64.34.222.78/api/nfc/?authCode=AuthCode</string>
+    <string name="staff_id_code">A7B2FF01</string>
+    <string name="switch_name">service_mode</string>
+    <string name="service_mode">0</string>
+</resources>
